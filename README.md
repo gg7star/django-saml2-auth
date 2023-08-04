@@ -13,8 +13,6 @@ For IdP-initiated SSO, the user will be created if it doesn't exist. Still, for 
 
 ## Project Information
 
-- Original Author: Fang Li ([@fangli](https://github.com/fangli))
-- Maintainer: Mostafa Moradian ([@mostafa](https://github.com/mostafa))
 - Version support matrix:
     | **Python**                   | **Django** | **django-saml2-auth** | **End of Support<br/>(django-saml2-auth)** | **End of extended support<br/>(Django)** |
     | ---------------------------- | ---------- | --------------------- | ------------------------------------------ | ---------------------------------------- |
